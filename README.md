@@ -4,11 +4,8 @@ Sideload Android app for used + Certified Pre-Owned inventory at Kendall Subaru 
 
 ## Send this to anyone
 
-**Download the app (v1.0.1):** https://files.catbox.moe/khe7ug.apk
+**Download the app (v1.0.2):** https://files.catbox.moe/thocxa.apk
 
-That is a direct APK download. No Google account. Android 10+ (Galaxy S20 and newer).
+That is a direct APK download. No Google account. Android 10+.
 
-1. Open the link on the phone.
-2. Allow **Install unknown apps** for the browser if Android asks.
-3. Install **Kendall Used Lot Tracker**.
-4. Open it and tap **Refresh Now**.
+Certified chip on = Subaru Certified/CPO only. Chip off = uncertified only.
