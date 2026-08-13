@@ -4,7 +4,7 @@ Sideload Android app for used + Certified Pre-Owned inventory at Kendall Subaru 
 
 ## Send this to anyone
 
-**Download the app:** https://files.catbox.moe/gc3o3e.apk
+**Download the app (v1.0.1):** https://files.catbox.moe/khe7ug.apk
 
 That is a direct APK download. No Google account. Android 10+ (Galaxy S20 and newer).
 
