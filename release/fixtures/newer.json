@@ -1,0 +1,7 @@
+{
+  "package": "com.kendall.lottracker",
+  "version_code": 999999,
+  "version_name": "fixture-newer",
+  "apk_url": "https://example.test/not-a-real-apk",
+  "sha256": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+}
